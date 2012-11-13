@@ -3,6 +3,23 @@ An example [Dropwizard](http://dropwizard.codahale.com/) app that uses [photon-c
 
 ----
 
+## How to run
+
+Set up:
+
+    git clone https://github.com/davb/flgphoton
+    
+    cd flgphoton
+    
+    mvn package
+    
+Run:
+    
+    foreman start --port=3002
+    
+
+----
+
 ## Example transformations
 
 The original image  
